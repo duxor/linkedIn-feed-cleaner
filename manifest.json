@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Feed Cleaner",
+  "version": "1.0",
+  "description": "LinkedIn Feed Cleaner - Remove ads & distractions for a cleaner, faster, and more focused LinkedIn experience. 100% free & open-source.",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "1024": "icon.png"
+  }
+}
