@@ -15,6 +15,17 @@ Tired of sponsored posts cluttering your feed? LinkedIn Feed Cleaner hides ads, 
 
 ---
 
+## 📷 Screenshots
+Below are examples of ads removed and the cleaned feed view:
+
+![LinkedIn feed with ads removed – example 1](docs/linkedin-screenshot-2-ads.png)
+First image: two ads removed.
+
+![LinkedIn feed with ads removed – example 2](docs/linkedin-screenshot-3-ads.png)
+Second image: three ads removed.
+
+---
+
 ## ✅ Compatibility
 - Chromium-based browsers: Google Chrome, Microsoft Edge, Brave, Opera.
 - Manifest Version: v3.
